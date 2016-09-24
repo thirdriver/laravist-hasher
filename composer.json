@@ -1,0 +1,18 @@
+{
+    "name": "laravist/hasher",
+    "description": "MD5 support in laravist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thirdriver",
+            "email": "793544531@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Laravist\\Hasher\\": "src/"
+        }
+    }
+}
