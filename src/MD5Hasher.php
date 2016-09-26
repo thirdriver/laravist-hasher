@@ -6,7 +6,7 @@
  * Time: 下午2:32
  */
 
-namespace Laravist\Hasher;
+namespace Laravists\Hasher;
 
 
 /**

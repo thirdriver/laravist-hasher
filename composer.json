@@ -1,5 +1,5 @@
 {
-    "name": "laravist/hasher",
+    "name": "laravists/hasher",
     "description": "MD5 support in laravist",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Laravist\\Hasher\\": "src/"
+            "Laravists\\Hasher\\": "src/"
         }
     }
 }
